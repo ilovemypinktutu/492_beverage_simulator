@@ -1,3 +1,5 @@
+https://492beverage-fvvh8ujybytdknhxuyspnp.streamlit.app
+
 # 🧃 Beverage Market Simulator
 
 Interactive retail market economics simulator for students.
